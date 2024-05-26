@@ -1,7 +1,7 @@
 # SI_2024_lab2_226133
 
 2.
-![CFG](https://github.com/RebekaManeva/SI_2024_lab2_226133/assets/167009682/0376d696-db85-4dc5-9c02-7a827c05c389)
+![CFG](https://github.com/RebekaManeva/SI_2024_lab2_226133/assets/167009682/204faaf7-b19e-4415-bd02-7d2ac48bc494)
 
 3. Цикломанска комплексност
 Се пресметува со формулата E - V + 2 каде E e број на ребра, V е број на јазли.
