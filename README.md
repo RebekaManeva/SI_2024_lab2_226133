@@ -13,11 +13,11 @@
 Креираме листа items со 5 елементи. Во секој од тест примерите правиме по
 мала промена со цел да се тестираат сите гранки.
 
-items.add(new Item("oriz", "3333", 40, 0.2F));
-items.add(new Item("mleko", "4444", 82, 0.1F));
-items.add(new Item("leb", "5555", 43, 0.4F));
-items.add(new Item("voda", "6666", 23, 0.01F));
-items.add(new Item("kafe", "7777", 135, 0.8F));
+- items.add(new Item("oriz", "3333", 40, 0.2F));
+- items.add(new Item("mleko", "4444", 82, 0.1F));
+- items.add(new Item("leb", "5555", 43, 0.4F));
+- items.add(new Item("voda", "6666", 23, 0.01F));
+- items.add(new Item("kafe", "7777", 135, 0.8F));
 
 Ова се оргиналните items.
 
@@ -35,11 +35,11 @@ items.add(new Item("kafe", "7777", 135, 0.8F));
 На местото на "5555" поставуваме "5$@55" со цел да видиме дали ќе биде фрлен исклучокот со соодветната порака за item со невалиден баркод.
 
  - @Test public void trueWithoutDiscount() и 
-   @Test public void falseWithoutDiscount()
+ - @Test public void falseWithoutDiscount()
 Ги поставуваме сите discounts на 0 и проверуваме дали според внесениот price ќе се испечатат соодветно true и false.
 
  - @Test public void returnTrueTest() и
-   @Test public void returnFalseTest()
+ - @Test public void returnFalseTest()
 Ги поставуваме сите вредности како оригиналните и според внесениот price проверуваме дали соодветно ќе се испечатат true и false.
 
 5. Multiple Condition критериум
