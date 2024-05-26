@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="12" skipped="0" failures="0" errors="0" timestamp="2024-05-26T19:55:54" hostname="WIN-GL9QHBGVPHE" time="0.104">
+  <properties/>
+  <testcase name="emptyCart()" classname="SILab2Test" time="0.053"/>
+  <testcase name="discountLessOrEqualToZero()" classname="SILab2Test" time="0.004"/>
+  <testcase name="returnFalseTest()" classname="SILab2Test" time="0.002"/>
+  <testcase name="invalidNameTest()" classname="SILab2Test" time="0.002"/>
+  <testcase name="returnTrueTest()" classname="SILab2Test" time="0.003"/>
+  <testcase name="allConditionsMet()" classname="SILab2Test" time="0.003"/>
+  <testcase name="invalidBarcodeTest()" classname="SILab2Test" time="0.002"/>
+  <testcase name="falseWithoutDiscount()" classname="SILab2Test" time="0.002"/>
+  <testcase name="barcodeStartsWithZero()" classname="SILab2Test" time="0.002"/>
+  <testcase name="priceMoreThan300()" classname="SILab2Test" time="0.001"/>
+  <testcase name="trueWithoutDiscount()" classname="SILab2Test" time="0.001"/>
+  <testcase name="nullBarcodeTest()" classname="SILab2Test" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
